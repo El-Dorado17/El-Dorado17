@@ -55,11 +55,11 @@
 <br/>  
 
 
-## Recent Blog Posts  
+### Message me your favorite songs! Here's something I've been listening to lately: 
   
 
 <br/>  
-### Message me your favorite songs! Here's something I've been listening to lately:  
+ 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=escapetheashes&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  

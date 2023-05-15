@@ -51,7 +51,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=El-Dorado17&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=El-Dorado17&show_icons=true&locale=en" align="center" /></p>  
 
 <br/>  
 

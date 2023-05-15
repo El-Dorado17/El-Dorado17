@@ -19,6 +19,7 @@
 
 
 ## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -34,6 +35,15 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
 
 <br/>  
 
@@ -55,11 +65,14 @@
 <br/>  
 
 
-### Message me your favorite songs! Here's something I've been listening to lately: 
+## Recent Blog Posts  
   
 
 <br/>  
- 
+
+
+
+### Message me your favorite songs! Here's something I've been listening to lately:  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=escapetheashes&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  

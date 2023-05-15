@@ -1,4 +1,6 @@
-<img src="https://media.tenor.com/otzj3dDRKcEAAAAC/goku-waving.gif" align="left" style="width: 100%" />  
+<div align="center">
+<img src="https://media.tenor.com/otzj3dDRKcEAAAAC/goku-waving.gif" align="center" style="width: 100%" />
+</div>  
   
 
 ### <div align="center">🌞I'm Ely, a full-stack software developer!🌞</div>  
@@ -69,7 +71,7 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=El-Dorado17&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=El-Dorado17&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 

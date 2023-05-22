@@ -5,6 +5,7 @@
 
 ### <div align="center">🌞I'm Ely, a full-stack software developer!🌞</div>  
   
+- 🌱 I’m working on my Full-Stack Capstone!
 
 - 🌱 I’m currently learning Python & Django  
   

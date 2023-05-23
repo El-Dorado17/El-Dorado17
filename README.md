@@ -5,12 +5,12 @@
 
 ### <div align="center">🌞I'm Ely, a full-stack software developer!🌞</div>  
   
--  I’m working on my Full-Stack Capstone!
+- 🍞 I’m currently working on Bread Basket: My Full-Stack React & Django Capstone!
 
-- 🌱 I’m currently learning Python & Django  
+- 🌼 I’m currently learning Python & Django  
   
 
-- ❓ Ask me about my favorite keyboard shortcuts!  
+- ❓ Ask me about my favorite keyboard shortcuts!
   
 
 - ⚡ Fun fact: I LOVE making Excel spreadsheets  

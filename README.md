@@ -5,7 +5,7 @@
 
 ### <div align="center">🌞I'm Ely, a full-stack software developer!🌞</div>  
   
-- 🍞 I’m currently working on Bread Basket: My Full-Stack React & Django Capstone!
+- 🍞 I’m currently working on Vacation Station: My Full-Stack React & Django Capstone!
 
 - 🌼 I’m currently learning Python & Django  
   

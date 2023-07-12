@@ -5,7 +5,8 @@
 
 ### <div align="center">🌞I'm Ely, a full-stack software developer!🌞</div>  
   
-- 🍞 I’m currently working on Vacation Station: My Full-Stack React & Django Capstone!
+- ⚛️ I’m currently working on sharpening my skills with React!
+
 
 - 🌼 I’m currently learning Python & Django  
   
@@ -13,7 +14,7 @@
 - ❓ Ask me about my favorite keyboard shortcuts!
   
 
-- ⚡ Fun fact: I LOVE making Excel spreadsheets  
+- ⚡ Fun fact: I love making Excel spreadsheets  
   
 
 <br/>  

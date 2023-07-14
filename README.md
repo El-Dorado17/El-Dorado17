@@ -14,7 +14,7 @@
 - ❓ Ask me about my favorite keyboard shortcuts!
   
 
-- ⚡ Fun fact: I love making Excel spreadsheets  
+- ⚡ Fun fact: I love playing games in VR 
   
 
 <br/>  

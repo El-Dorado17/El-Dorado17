@@ -8,7 +8,7 @@
 - ⚛️ I’m currently sharpening my skills with React
 
 
-- 🌼 I’m currently learning Python & Django  
+- 🌼 I’m learning Python & Django  
   
 
 - ❓ Ask me about my favorite keyboard shortcuts

@@ -11,7 +11,7 @@
 - 🌼 I’m currently learning Python & Django  
   
 
-- ❓ Ask me about my favorite keyboard shortcuts!
+- ❓ Ask me about my favorite keyboard shortcuts
   
 
 - ⚡ Fun fact: I enjoy playing games in VR 

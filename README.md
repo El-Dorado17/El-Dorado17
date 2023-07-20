@@ -5,10 +5,10 @@
 
 ### <div align="center">🌞I'm Ely, a full-stack software developer!🌞</div>  
   
-- ⚛️ I’m currently sharpening my skills with React
+- ⚛️ I’m currently sharpening my skills with Javascript & React
 
 
-- 🌼 I’m learning Python & Django  
+- 🌼 I’m currently learning Python & Django  
   
 
 - ❓ Ask me about my favorite keyboard shortcuts!

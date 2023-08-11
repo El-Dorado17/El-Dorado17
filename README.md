@@ -8,10 +8,10 @@
 - ⚛️ I’m currently sharpening my skills with Javascript & React
 
 
-- 🌼 I’m currently learning Python & Django  
+- 🌼 I’m also learning Python & Django  
   
 
-- ❓ Ask me about my favorite keyboard shortcuts!
+- ❓ Ask me about the application I'm developing!
   
 
 - ⚡ Fun fact: I enjoy playing games in VR!

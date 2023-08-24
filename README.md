@@ -11,7 +11,7 @@
 - 🌼 I’m also learning Python & Django  
   
 
-- ❓ Ask me about Quest Keeper - The application I'm developing!
+- ❓ Ask me about my app Quest Keeper!
   
 
 - ⚡ Fun fact: I enjoy playing games in VR!

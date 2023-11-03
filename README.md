@@ -11,9 +11,6 @@
 - 🌼 I’m also learning Python & Django  
   
 
-- ⚡ Fun fact: I enjoy playing games in VR!
-  
-
 <br/>  
 
 

@@ -6,6 +6,7 @@
 ### <div align="center">🌞I'm Ely, a full-stack software developer!🌞</div>  
   
 - ⚛️ I’m currently sharpening my skills with Javascript & React
+- Check out my portfolio site and let me know what you think!
   
 
 <br/>  

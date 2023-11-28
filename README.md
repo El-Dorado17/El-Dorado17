@@ -7,6 +7,7 @@
   
 - ⚛️ I’m currently sharpening my skills with Javascript & React
 - Check out my portfolio site and let me know what you think!
+- (I'm currently dealing with some tech issues on my machine, but will be back to uploading ASAP)
   
 
 <br/>  

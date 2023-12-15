@@ -10,7 +10,7 @@
 - ⚛️ I’m currently sharpening my skills with Javascript & React
 - 🖥️ Check out my portfolio site and let me know what you think!
 
-  
+  🥁🎸🎺
 
 <br/>  
 
